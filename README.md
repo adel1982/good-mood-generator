@@ -1,7 +1,7 @@
 # js-vanilla-good-mood-generator
 Générateur de bonne humeur 
 
-## Améliorations à faire 
+## Updates à faire 
 - [ ] Ecrire les citations dans un fichier .json
 - [ ] Ajouter des données supplémentaire 
   - [ ] Photo de l'auteur
