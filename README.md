@@ -2,7 +2,7 @@
 Générateur de bonne humeur 
 
 ## Updates à faire 
-- [ ] Ecrire les citations dans un fichier .json
+- [ ] Les citations doivent être stockés dans un fichier .json
 - [ ] Ajouter des données supplémentaire 
   - [ ] Photo de l'auteur
   - [ ] Lien renvoyant vers sa page Wikipedia
