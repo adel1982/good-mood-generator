@@ -1,5 +1,9 @@
 # js-vanilla-good-mood-generator
-Générateur de bonne humeur 
+Générateur de bonne humeur
+
+## Technologie(s) utilisée(s)
+- HTML / CSS
+- JS
 
 ## Updates à faire 
 - [ ] Intaller Parcel
