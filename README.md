@@ -13,3 +13,5 @@ Générateur de bonne humeur
   - [ ] Lien renvoyant vers sa page Wikipedia
 - [ ] Améliorer le design
 - [ ] Ajouter des boutons de partage sur les réseaux sociaux en JS 
+- [ ] Ajouter un bouton pour liker une citation 
+- [ ] Le nombre de like doit être dynamique
