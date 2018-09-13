@@ -6,7 +6,8 @@ Générateur de bonne humeur
 - JS
 
 ## Updates à faire 
-- [ ] Intaller Parcel
+- [ ] Installer Parcel
+- [ ] Utiliser un linter JS
 - [ ] Les citations doivent être stockés dans un fichier .json
 - [ ] Ajouter des données supplémentaire 
   - [ ] Photo de l'auteur
