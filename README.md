@@ -14,7 +14,7 @@ Générateur de bonne humeur
 - JS
 
 ## Updates à faire 
-- [ ] Installer Parcel
+- [x] Installer Parcel
 - [ ] Utiliser un linter JS
 - [ ] Les citations doivent être stockés dans un fichier .json
 - [ ] Ajouter des données supplémentaire 
