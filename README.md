@@ -7,6 +7,7 @@ Générateur de bonne humeur
 - npm i -D parcel-bundler
 - npm install --save-dev babel-cli babel-preset-env
 - ./node_modules/.bin/parcel index.html
+- ./node_modules/.bin/parcel build index.html
 
 ## Technologie(s) utilisée(s)
 - HTML / CSS
