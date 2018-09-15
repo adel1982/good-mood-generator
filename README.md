@@ -1,7 +1,7 @@
 # js-vanilla-good-mood-generator
 Générateur de bonne humeur
 
-# Commande
+# CLI Parcel
 - npm install -g parcel-bundler
 - npm init -y
 - npm i -D parcel-bundler
