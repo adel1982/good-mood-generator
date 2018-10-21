@@ -12,6 +12,7 @@ Générateur de bonne humeur
 ## Technologie(s) utilisée(s)
 - HTML / CSS
 - JS
+- Parcel
 
 ## Updates à faire 
 - [x] Installer Parcel
