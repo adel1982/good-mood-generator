@@ -43,11 +43,6 @@ const quotes = [
         "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.",
         "Albert Einstein",
         "Mathématicien, Physicien, Scientifique (1879 - 1955)"
-    ],
-    [
-        "Un sourire coûte moins cher que l'électricité, mais donne autant de lumière.",
-        "Abbé Pierre",
-        "Abbé, Prêtre, Religieux (1912 - 2007)"
     ]
 ];
 
@@ -82,7 +77,6 @@ const btnTwitter = document.querySelector(".share-twitter");
 const hashtag = quotes[random][1].replace(/ /g, '');
 const tweet = twitter(quotes[random][0], 280);
 
-console.log(tweet);
 
 // On crée une fonction qui coupe la citation pour ne pas dépasser la limite autorisée par Twitter
 function twitter(quote, chars) {

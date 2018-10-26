@@ -1,0 +1,28 @@
+{
+  "quote-01": {
+    "author": "Abbé Pierre",
+    "profession": "Religieux (1912 - 2007)",
+    "wording": "Un sourire coûte moins chèr que l'électricité mais donne autant de lumière.",
+    "img": ""
+  },
+  "quote-02": {
+    "author": "Albert Einstein",
+    "profession": "Mathématicien, Physicien, Scientifique (1879 - 1955)",
+    "wording": "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.",
+    "img": ""
+  },
+  "quote-03": {
+    "author": "Sylvain Tesson",
+    "profession": "Artiste, Aventurier, écrivain (1972 - )",
+    "wording": "Le voyage est une fuite contre la routine, la monotonie, la familiarité, la soumission à la régulation du gouvernement collectif",
+    "img": ""
+  },
+  "quote-03": {
+    "author": "Confucius",
+    "profession": "Philosophe",
+    "wording": "Exige beaucoup de toi-même et attends peu des autres. Ainsi beaucoup d'ennuis te seront épargnés.",
+    "img": ""
+  }
+
+}
+
