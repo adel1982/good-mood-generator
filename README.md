@@ -12,11 +12,10 @@ Générateur de bonne humeur
 ## Technologie(s) utilisée(s)
 - HTML / CSS
 - JS
+- Parcel
 
 ## Updates à faire 
 - [x] Installer Parcel
-- [x] Utiliser un linter JS
-- [ ] Les citations doivent être stockés dans un fichier .json
 - [ ] Ajouter des données supplémentaire 
   - [ ] Photo de l'auteur
   - [ ] Lien renvoyant vers sa page Wikipedia
