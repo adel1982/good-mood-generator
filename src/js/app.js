@@ -5,16 +5,6 @@ const quotes = [
         "Artiste, Aventurier, écrivain (1972 - )"
     ],
     [
-        "Comme les rêves sont cruels, qui nous laissent entrevoir des merveilles pour mieux nous en priver !",
-        "Amélie Nothomb",
-        "Artiste, écrivain (1966 - )"
-    ],
-    [
-        "On passe une moitié de sa vie à attendre ceux qu'on aimera et l'autre moitié à quitter ceux qu'on aime.",
-        "Victor Hugo",
-        "Artiste, écrivain, Poète, Romancier (1802 - 1885)"
-    ],
-    [
         "Exige beaucoup de toi-même et attends peu des autres. Ainsi beaucoup d'ennuis te seront épargnés.",
         "Confucius",
         "Philosophe"
@@ -23,11 +13,6 @@ const quotes = [
         "Pour critiquer les gens il faut les connaître, et pour les connaître, il faut les aimer.",
         "Coluche",
         "Artiste, Comique (1944 - 1986)"
-    ],
-    [
-        "Si je devais recommencer ma vie, je n'y voudrais rien changer, seulement j'ouvrirais un peu plus grand les yeux.",
-        "Jules Renard",
-        "Artiste, écrivain (1864 - 1910)"
     ],
     [
         "Le seul moyen de se délivrer d'une tentation, c'est d'y céder. Résistez et votre âme se rend malade à force de languir ce qu'elle s'interdit.",
@@ -59,7 +44,6 @@ author.innerHTML = quotes[random][1];
 infos.innerHTML = ' - ' + quotes[random][2];
 
 // Nouvelle citation au click du bouton "Nouvelle citation"
-
 const btnQuote = document.querySelector(".new-citation");
 
 function newQuote() {
@@ -69,7 +53,6 @@ function newQuote() {
     infos.innerHTML = ' - ' + quotes[random][2];
     
 }
-
 btnQuote.addEventListener('click', newQuote);
 
 // Partage Twitter
