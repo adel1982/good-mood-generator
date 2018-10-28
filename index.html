@@ -5,20 +5,32 @@
   <title>Good Mood generator</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster|Roboto:300,400" > 
   <link rel="stylesheet" href="src/css/style.css">
   <script src="src/js/app.js" defer></script>
+  <script src="src/js/anim.js" defer></script>
 </head>
 <body>
-  <div class="container">
-    <p class="quote"></p>
-    <span class="author"></span>
-    <span class="infos"></span>
-    <div class="buttons">
-      <button class="new-citation">Nouvelle citation</button>
-      <button class="share-twitter">
-        Partager
-      </button>
-    </div>
-  </div>
+  <main>
+    <h1 class="title-01">Good Mood Generator</h1>
+    <section>
+      <div class="container">
+        <img src="" class="face" alt="">
+        <p class="quote"></p>
+        <span class="author"></span>
+        <span class="infos"></span>
+
+        <div class="options">
+          <button class="new-citation">Nouvelle citation</button>
+          <button class="share-twitter">Partager</button>
+        </div>
+      </div>
+      <div id="co">
+        <canvas id="c"></canvas>
+      </div>
+    </section>
+  </main>
+    
+  
 </body>
 </html>
