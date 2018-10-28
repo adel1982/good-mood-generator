@@ -1,7 +1,22 @@
+/*------------------------------------*\
+  $ GEN
+\*------------------------------------*/
 *,
 *::before,
 *::after {
   box-sizing: border-box;
+  margin: 0; padding: 0;
+}
+
+@-webkit-keyframes gradientMood {
+  0%    {background-position:0% 50%}
+  50%   {background-position:100% 50%}
+  100%  {background-position:0% 50%}
+}
+@-moz-keyframes gradientMood {
+  0%    {background-position:0% 50%}
+  50%   {background-position:100% 50%}
+  100%  {background-position:0% 50%}
 }
 
 @-webkit-keyframes gradientMood {
@@ -37,12 +52,35 @@ body {
 
   
 }
+/*------------------------------------*\
+  $ BLOCK QUOTES
+\*------------------------------------*/
+section {
+  /* flexbox */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 60vh;
+}
+
 .container {
   background-color: #fff;
-  padding: 0.62rem;
+  padding: 3rem 0.62rem 0.62rem;
+  position: relative;
+  width: 60vw;
+}
+.face {
+  border: 3px solid #fff;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  position: absolute; left: 50%; top: -40px;
+  transform: translateX(-50%);
+  width: 80px; height: 80px;
 }
 .quote {
-  border: 1px dashed blue;
+  font: 300 1.5rem 'Roboto', sans-serif;
 }
 .author {
   border: 1px dashed green;
