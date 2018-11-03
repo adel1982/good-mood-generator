@@ -16,10 +16,6 @@ Générateur de bonne humeur
 
 ## Updates à faire 
 - [x] Installer Parcel
-- [ ] Ajouter des données supplémentaire 
-  - [ ] Photo de l'auteur
-  - [ ] Lien renvoyant vers sa page Wikipedia
-- [ ] Améliorer le design
-- [ ] Ajouter des boutons de partage sur les réseaux sociaux en JS 
-- [ ] Ajouter un bouton pour liker une citation 
-- [ ] Le nombre de like doit être dynamique
+- [x] Ajouter des données supplémentaire 
+  - [x] Photo de l'auteur
+- [x] Améliorer le design
