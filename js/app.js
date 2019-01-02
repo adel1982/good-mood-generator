@@ -3,37 +3,37 @@ const quotes = [
 		"Le voyage est une fuite contre la routine, la monotonie, la familiarité, la soumission à la régulation du gouvernement collectif.",
 		"Sylvain Tesson",
 		"Artiste, Aventurier, écrivain (1972 - )",
-		"src/img/sylvain-tesson.jpg"
+		"img/sylvain-tesson.jpg"
 	],
 	[
 		"Pour critiquer les gens il faut les connaître, et pour les connaître, il faut les aimer.",
 		"Coluche",
 		"Artiste, Comique (1944 - 1986)",
-		"src/img/coluche.jpg"
+		"img/coluche.jpg"
 	],
 	[
 		"Le seul moyen de se délivrer d'une tentation, c'est d'y céder. Résistez et votre âme se rend malade à force de languir ce qu'elle s'interdit.",
 		"Oscar Wilde",
 		"Artiste, écrivain (1854 - 1900)",
-		"src/img/oscar-wilde.jpg"
+		"img/oscar-wilde.jpg"
 	],
 	[
 		"La vie est un mystère qu'il faut vivre, et non un problème à résoudre.",
 		"Gandhi",
 		"Homme politique, Philosophe, Révolutionnaire (1869 - 1948)",
-		"src/img/ghandi.jpg"
+		"img/ghandi.jpg"
 	],
 	[
 		"La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.",
 		"Albert Einstein",
 		"Mathématicien, Physicien, Scientifique (1879 - 1955)",
-		"src/img/albert-einstein.jpg"
+		"img/albert-einstein.jpg"
 	],
 	[
 		"Un sourire coûte moins cher que l'électricité, mais donne autant de lumière.",
 		"Abbé Pierre",
 		"Abbé, Prêtre, Religieux (1912 - 2007)",
-		"src/img/abbe-pierre.jpg"
+		"img/abbe-pierre.jpg"
 	]
 ];
 
